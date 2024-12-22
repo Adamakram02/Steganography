@@ -1,5 +1,5 @@
-import React, { useState } from "react";
-import Buttonfile from "./Buttonfile";
+import { useState } from "react";
+import Buttonfile from "../component/Buttonfile";
 import "bootstrap-icons/font/bootstrap-icons.css";
 import { useNavigate } from "react-router-dom";
 
